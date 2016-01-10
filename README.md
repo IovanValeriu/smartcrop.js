@@ -1,5 +1,7 @@
 # smartcrop.js
 
+[![Join the chat at https://gitter.im/IovanValeriu/smartcrop.js](https://badges.gitter.im/IovanValeriu/smartcrop.js.svg)](https://gitter.im/IovanValeriu/smartcrop.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Smartcrop.js implements an algorithm to find good crops for images.
 
 ![Example](http://29a.ch/sandbox/2014/smartcrop/example.jpg)
